@@ -11,224 +11,218 @@
      },
       {
       "id":2,
-      "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-      "head":"2.8 - 25t",
-      "name":"Tilt Rotator",
-      "range": "12$"
+      "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67a93543c1331b7cfdbdafdc_aussie-buckets-hydraulic-grab-1.avif",
+      "head":"1T -36T",
+      "name":"Hydraulic Bucket",
+      "range": "19$"
    },
-   {
-    "id":3,
-    "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-    "head":"2.8 - 25t",
-    "name":"Tilt Rotator",
-    "range": "12$"
- },
+  
  {
   "id":3,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d696_66830970cf3abe9ce402abcd_6682efe42f7a3c05bff75c16_ABDB%252520-%2525201.avif",
+  "head":"1.2T - 48T",
+  "name":"Digging Bucket",
+  "range": "25$"
 },
 {
   "id":4,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d76b_66838b17a96958064b294fd5_ABHRB-1.avif",
+  "head":"1t -60t",
+  "name":"Rock-Breaker",
+  "range": "48$"
 },
 {
   "id":5,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67b52ea560f06ee583104324_Photo%2023-1-2025%2C%2011%2001%2030%20am-Photoroom.avif",
+  "head":"1.2T - 50T",
+  "name":"Mud Bucket",
+  "range": "32$"
 },
 {
   "id":6,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67c555b95c0e63ac4503aa3f_1.avif",
+  "head":"1T-36",
+  "name":"Hydraulic Tilting Hitch",
+  "range": "45$"
 },
 {
   "id":7,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d7bb_66638678f002512224b4921f_3.avif",
+  "head":"1.5T - 36T",
+  "name":"Heavy Duty 4-in- Bucket",
   "range": "12$"
 },
 {
   "id":8,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d773_66838b179c476369117a2d43_ABR-1.avif",
+  "head":"1T - 65T",
+  "name":"Ripper",
   "range": "12$"
 },
 {
   "id":9,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67b423e12adef8a07a802e92_Tilting_Bucket-2.avif",
+  "head":"1.2T - 55T",
+  "name":"Tilting Bucket",
   "range": "12$"
 },
 {
   "id":10,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d7aa_66838b19b37b631e714bff76_ABRSB-1.avif",
+  "head":"1.5T - 50T",
+  "name":"Mechanical Grab",
   "range": "12$"
 },
 {
   "id":11,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d7a1_66838b18491f1bbdc7177ca0_ABVB-1.avif",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Hydraulic Grab Bucket",
   "range": "12$"
 },
 {
   "id":12,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67b508616a90e34e0297832b_Compaction_Wheel-1.avif",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Rock Bucket",
   "range": "12$"
 },
 {
   "id":13,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"hhttps://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d71e_66838b1536a093d8ee00912f_ABVCP-1.avif",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Hydraulic Thumb",
   "range": "12$"
 },
 {
   "id":14,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23d9d155e70ed22f5c3b7_0_feature.webp",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Quarry Bucket",
   "range": "12$"
 },
 {
   "id":15,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature.webp",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Hydraulic Quick Hitch",
   "range": "12$"
 },
 {
   "id":16,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8eb634ecc8046b5128397_0_featured_image_vibrating_ripper.webp",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Heavy Duty Stich Rake",
   "range": "12$"
 },
 {
   "id":17,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8db0a4c0588a1c07ee4a3_0_featured_image_vibrating_pile_driver.webp",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Mud seiv Bucket",
   "range": "12$"
 },
 {
   "id":18,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66b04d5d579de4c891b7d74d_66838b167eabdc2ee839168f_ABTS-1.avif",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Rock Sieve Bucket",
   "range": "12$"
 },
 {
   "id":19,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b358a893d28dae928fc1_0_featured_image_rotating_multipurpose_grab.webp",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"V Bucket",
   "range": "12$"
 },
 {
   "id":20,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67c551c295e145ca84f89983_1.avif",
   "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
+  "name":"Compaction Wheel",
   "range": "12$"
 },
 {
   "id":21,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":22,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7aa0b946153799c24b86e_0_featured_image_Sweeper_Broom.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":23,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":24,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a92cda80e5ed6ca74a5f_0_featured_image_Grader_Blade-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":25,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79c54b31dd40f255588c2_0_feature_transverse_drum_cutter-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":26,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79e7793f2cc92ce03cc79_0_featured_image_rock_saw-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":27,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a7ce9b7cba72b49f1d39_0_featured_image_Crusher_Bucket-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":28,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8cf7a000dade2dcf45c_0_featured_image_Flail_Mower-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":29,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a722068791565c3728a9_0_featured_image_auger-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":30,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8604f2e71cc108323ae_0_featured_image_Mulcher-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":31,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":32,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e92c9ffb5aeff2c18070_0_featured_image_mbi_eagle_3-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
@@ -236,35 +230,35 @@
 
 {
   "id":33,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":34,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ed2c44b92b67437e881a_0_featured_image_mbi_multi_system-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":35,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":36,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e1dc4ecc8046b509536f_0_featured_image_mbi_combi_crusher-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":37,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e4f349dce77ce02049b0_0_featured_image_mbi_primary_crusher-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
@@ -272,77 +266,21 @@
 
 {
   "id":38,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e3d133aa04c047158541_0_featured_image_mbi_combi_crusher-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":39,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"
 },
 {
   "id":40,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":41,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":42,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":43,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":44,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":45,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":46,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":47,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
-  "head":"2.8 - 25t",
-  "name":"Tilt Rotator",
-  "range": "12$"
-},
-{
-  "id":48,
-  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket.webp",
+  "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9399d0897386ce5bb99_0_feature_Grading_Bucket.webp",
   "head":"2.8 - 25t",
   "name":"Tilt Rotator",
   "range": "12$"

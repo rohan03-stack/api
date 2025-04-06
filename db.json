@@ -429,6 +429,100 @@
     "hr": "Ripper"
 
   }
-]
+],
+"hover-card": [
+  {
+    "id": 151,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b45e6970d801a07e1e554f_Rock%20Bucket.png",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Excavator Buckets",
+    "cp": "Strong,Durable,Relaible",
+    "btn": "See All"
+  },
+  {
+    "id": 152,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d3af_image%2021-1.avif",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Excavator Grabs",
+    "cp": "Versatile,Efficient,Precise",
+    "btn": "See All"
+  },
+  {
+    "id": 153,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef78978e5a35252bc5f9b6_ripper_nav-Photoroom.png",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Excavator Attachment",
+    "cp": "We Have Everything You need",
+    "btn": "See All"
+  },
+  {
+    "id": 154,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef790c9e995d6ee2c1cebf_tillt_rotator_nav_02.webp",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Excavator Hitches",
+    "cp": "Boost Your Productivity",
+    "btn": "See All"
+  },
+  {
+    "id": 155,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67eb6b91a1d5739ffa1d1199_1_Daemo_smart_breaker_series_SME.png",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Excavator Breakers",
+    "cp": "Powerfull and Built Last",
+    "btn": "See All"
+  },
+  {
+    "id": 156,
+    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66c41153cb48e161387426d3_Multisystem.png",
+    "tittle": "FOR IT - 400T+",
+    "h4": "Performance Range",
+    "cp": "Cutting Edge Technology",
+    "btn": "See All"
+  }
+],
+
+"Partners-Cards-1": [
+        {
+            "id":"1",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d410_PPV.avif",
+            "name":"Aidan Kuzmich",
+            "post":"Managing Director"
+        },
+
+        {
+            "id":"2",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d411_PPV%20(2).avif",
+            "name":"Morgan Watts",
+            "post":"Marketing Director"
+        },
+
+        {
+            "id":"3",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d412_PPV%20(3).avif",
+            "name":"Max Tomich",
+            "post":"Sales Director"
+        },
+
+        {
+            "id":"4",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e22de0ab682ea7fc638ad1_Jordan_Headshot_2025.png",
+            "name":"Jordan Kuzmich",
+            "post":"Operations Director"
+        },
+
+        {
+            "id":"5",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+            "name":"Nader Taleb",
+            "post":"National Sales Manager"
+        },
+
+        {
+            "id":"6",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b339219fdf1bd1613776_Wood_PPV.jpg",
+            "name":"Nathan Wood",
+            "post":"Business Development Manager"
+        }
+      ]
 
   }

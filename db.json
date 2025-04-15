@@ -829,6 +829,25 @@
             "p":"Our products are fully customisable with various steel grades available depending on customer preference and application. Our selection includes HARDOX (Europe), NM (China) and Bisalloy (Australia)"
 
         }
+    ],
+    "Attachments":[
+        {
+            "h1": "Versatile Solutions",
+            "p":"Whether you’re managing large-scale commercial projects or handling small excavation jobs, our products are designed to meet the demands of your worksite. Our buckets are precision-engineered to handle any task from digging to grading with efficiency and ease.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67a05b3101a2d1392a29be1b_Rock%20Sieve%20Bucket%202-min%201.avif"
+        },
+
+        {
+            "h1": "Boost Productivity",
+            "p":"Need to ramp up your productivity? Check out our Hydraulic Attachments, designed to deliver unmatched efficiency and power on the job site. For the toughest challenges, our Rippers and Grapples are built to provide robust performance and reliability you can count on.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67bff3f5d487182772a67fbb_Grab%20Bucket.avif"
+        },
+
+        {
+            "h1": "Tailored to Your Needs",
+            "p":"Have specific requirements? We also offer custom-designed attachments tailored to seamlessly integrate with your heavy-duty machine, giving you the perfect tool for your unique project needs.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67da3632f2925a9edff16936_Triple_Rock_Saw_Min.webp"
+        }
     ]
 
   }

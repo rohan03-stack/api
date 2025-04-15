@@ -772,7 +772,7 @@
         {
             "id":"1",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d2c80f861b8a91a22d5_Global%20Manufactuirng%20Facilites.svg",
-            "value":"11",
+            "value":11,
             "suffix":"+",
             "h1": "Global Manufacturing Locations",
             "p":"We have state of the art manufacturing facilities all over the world, including in Korea, China and Italy."
@@ -782,7 +782,7 @@
         {
             "id":"2",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d3c42396ae05a423c53_Attachments%20Annually.svg",
-            "value":"7,450",
+            "value": 7450 ,
             "suffix":"+",
             "h1": "Attachments Annually",
             "p":"Our manufacturing capabilities allow us to produce over 7,450 attachments each year.."
@@ -792,7 +792,7 @@
         {
             "id":"3",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d4ca20aedac9d99b8a3_Rigorous%20Inspection%20Points.svg",
-            "value":"10",
+            "value":10,
             "suffix":"+",
             "h1": "Rigorous Inspection Points",
             "p":"All our products undergo a rigorous 10 point inspection to ensure there are no faults and products are made to the highest standards."
@@ -802,7 +802,7 @@
         {
             "id":"4",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d5f39abb5bea8b35bc0_Customer%20Satisfaction.svg",
-            "value":"97",
+            "value":97,
             "suffix":"%",
             "h1": "Customer Satisfaction",
             "p":"Our customers have a 97% satisfaction rate when it comes to product quality. This is due to the high standard we hold for all our products."
@@ -812,16 +812,18 @@
         {
             "id":"5",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d82da5e4b687adae621_Revenue%20Spent%20on%20R%26D.svg",
-            "value":"4",
+            "value":4,
             "suffix":"%",
-            "h1": "We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
+            "h1": "Of Revenue Spent On R&D",
+            "p": "We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
+            
 
         },
 
         {
             "id":"6",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d9176655b34d4bdb6ef_Steel%20Grade%20Available.svg",
-            "value":"30",
+            "value":30,
             "suffix":"+",
             "h1": "Steel Grades Available",
             "p":"Our products are fully customisable with various steel grades available depending on customer preference and application. Our selection includes HARDOX (Europe), NM (China) and Bisalloy (Australia)"

@@ -9,7 +9,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8fa3fb38e826b2a48abdf_0_featured_image_tilt_rotator-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Tilt Rotator",
-        "btn": "Add to Quick Quote"
+        "btn": "Add to Quick Quote",
+        "categories": "Tunnelling"
     },
 
     {
@@ -33,7 +34,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d237b38f7f40e02da3e740_0_feature-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Rock Breaker",
-          "btn": "Add to Quick Quote"
+          "btn": "Add to Quick Quote",
+               "categories": "Tunnelling"
     },
 
     {
@@ -193,7 +195,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Vibrating Ripper",
-          "btn": "Add to Quick Quote"
+          "btn": "Add to Quick Quote",
+               "categories": "Tunnelling"
     },
 
     {
@@ -265,7 +268,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79c54b31dd40f255588c2_0_feature_transverse_drum_cutter-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Transverse Drum Cutters Series",
-          "btn": "Add to Quick Quote"
+          "btn": "Add to Quick Quote",
+               "categories": "Tunnelling"
     },
 
     {
@@ -273,7 +277,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79e7793f2cc92ce03cc79_0_featured_image_rock_saw-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Rock Saw Series",
-          "btn": "Add to Quick Quote"
+          "btn": "Add to Quick Quote",
+               "categories": "Tunnelling"
     },
 
     {
@@ -297,7 +302,8 @@
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a722068791565c3728a9_0_featured_image_auger-p-500.webp",
         "price": "2.8 - 25T",
         "name": "Auger Gear",
-          "btn": "Add to Quick Quote"
+          "btn": "Add to Quick Quote",
+               "categories": "Tunnelling"
     },
 
     {

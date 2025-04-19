@@ -1,859 +1,813 @@
 {
-    "user": [],
-    "admin": [],
-    "contact":[],
- 
-    "Ausssies": [    
+  "user": [],
+  "admin": [],
+  "contact": [],
+  "Ausssies": [
     {
-        "id": "1",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8fa3fb38e826b2a48abdf_0_featured_image_tilt_rotator-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Tilt Rotator",
-        "btn": "Add to Quick Quote",
-        "categories": "Tunnelling"
+      "id": "1",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8fa3fb38e826b2a48abdf_0_featured_image_tilt_rotator-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Tilt Rotator",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "2",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7bb532cbaeb164fa045f9_0_featured_image_Hydraulic_Grab-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Grab",
-          "btn": "Add to Quick Quote"
+      "id": "2",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7bb532cbaeb164fa045f9_0_featured_image_Hydraulic_Grab-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Grab",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "3",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Digging Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "3",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Digging Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "4",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d237b38f7f40e02da3e740_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rock Breaker",
-          "btn": "Add to Quick Quote",
-               "categories": "Tunnelling"
+      "id": "4",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d237b38f7f40e02da3e740_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rock Breaker",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "5",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23434bbfed96ff5559942_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Mud Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "5",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23434bbfed96ff5559942_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Mud Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "6",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d240fac9a9bdeb9ac98d9a_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Tilting Hitch",
-          "btn": "Add to Quick Quote"
+      "id": "6",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d240fac9a9bdeb9ac98d9a_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Tilting Hitch",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "7",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8d2841245880a58d7ed04_0_featured_image_4-in-1-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Heavy duty 4 in 1 Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "7",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8d2841245880a58d7ed04_0_featured_image_4-in-1-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Heavy duty 4 in 1 Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "8",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23610921ae7e4d25d657a_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Ripper",
-          "btn": "Add to Quick Quote"
+      "id": "8",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23610921ae7e4d25d657a_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Ripper",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "9",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Tilting Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "9",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Tilting Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "10",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Mechanical Grab",
-          "btn": "Add to Quick Quote"
+      "id": "10",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Mechanical Grab",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "11",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8a57c9e62bc7c5df76bda_0_featured_image_Hydraulic_Grab_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Grab Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "11",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8a57c9e62bc7c5df76bda_0_featured_image_Hydraulic_Grab_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Grab Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "12",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b5e92cbaeb164f9b927e_0_featured_image_Rock_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rock Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "12",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b5e92cbaeb164f9b927e_0_featured_image_Rock_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rock Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "13",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b173ef9acc58a474804a_0_featured_image_hydraulic_thumb-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Thumbs",
-          "btn": "Add to Quick Quote"
+      "id": "13",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b173ef9acc58a474804a_0_featured_image_hydraulic_thumb-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Thumbs",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "14",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b8ad81c2dd042f1420be_0_feature_Quarry_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Quarry Bucket",
-          "btn": "Add to Quick Quote"
-    }, 
-    
-    {
-        "id": "15",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23e24478b13f4e98bae02_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Quick Hitch",
-          "btn": "Add to Quick Quote"
+      "id": "14",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b8ad81c2dd042f1420be_0_feature_Quarry_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Quarry Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "16",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d242d447f0602b20d249f1_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Heavy Duty Stick Rake",
-          "btn": "Add to Quick Quote"
+      "id": "15",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23e24478b13f4e98bae02_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Quick Hitch",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "17",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b62b4bfa605e290c2f3b_0_featured_image_Mud_Sieve_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Mud Sieve Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "16",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d242d447f0602b20d249f1_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Heavy Duty Stick Rake",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "18",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b44d6152ca19c9661b16_0_featured_image_Rock_Sieve_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rock Sieve Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "17",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b62b4bfa605e290c2f3b_0_featured_image_Mud_Sieve_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Mud Sieve Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "19",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b73f4743cc7aa18e1190_0_feature_V_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "V Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "18",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b44d6152ca19c9661b16_0_featured_image_Rock_Sieve_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rock Sieve Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "20",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23852698a3e5502e32346_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Compaction Wheel",
-          "btn": "Add to Quick Quote"
+      "id": "19",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b73f4743cc7aa18e1190_0_feature_V_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "V Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "21",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Vibrating Compaction Plate",
-          "btn": "Add to Quick Quote"
+      "id": "20",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23852698a3e5502e32346_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Compaction Wheel",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "22",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Excavator Pallet Forks",
-          "btn": "Add to Quick Quote"
+      "id": "21",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Vibrating Compaction Plate",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "23",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rotary Screening Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "22",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Excavator Pallet Forks",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "24",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Vibrating Ripper",
-          "btn": "Add to Quick Quote",
-               "categories": "Tunnelling"
+      "id": "23",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rotary Screening Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "25",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8db0a4c0588a1c07ee4a3_0_featured_image_vibrating_pile_driver-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Vibrating Pile Driver",
-          "btn": "Add to Quick Quote"
+      "id": "24",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Vibrating Ripper",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "26",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d2407c663d52d4d86a288b_0_feature-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Hydraulic Tree Share",
-          "btn": "Add to Quick Quote"
+      "id": "25",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8db0a4c0588a1c07ee4a3_0_featured_image_vibrating_pile_driver-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Vibrating Pile Driver",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "27",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b358a893d28dae928fc1_0_featured_image_rotating_multipurpose_grab-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rotating Multipurpose Grab",
-          "btn": "Add to Quick Quote"
+      "id": "26",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d2407c663d52d4d86a288b_0_feature-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Hydraulic Tree Share",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "28",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b3a3a6c6a9bdb8238a0b_0_featured_image_Sorting_Grab_Series-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Sorting Grab Series",
-          "btn": "Add to Quick Quote"
+      "id": "27",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b358a893d28dae928fc1_0_featured_image_rotating_multipurpose_grab-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rotating Multipurpose Grab",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "29",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Clamshell Bucket Series",
-          "btn": "Add to Quick Quote"
+      "id": "28",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b3a3a6c6a9bdb8238a0b_0_featured_image_Sorting_Grab_Series-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Sorting Grab Series",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "30",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Sweeper Broom",
-          "btn": "Add to Quick Quote"
+      "id": "29",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Clamshell Bucket Series",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "31",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rotating Fixed Log Grapple",
-          "btn": "Add to Quick Quote"
+      "id": "30",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Sweeper Broom",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "32",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Grader Blade",
-          "btn": "Add to Quick Quote"
+      "id": "31",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rotating Fixed Log Grapple",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "33",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79c54b31dd40f255588c2_0_feature_transverse_drum_cutter-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Transverse Drum Cutters Series",
-          "btn": "Add to Quick Quote",
-               "categories": "Tunnelling"
+      "id": "32",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Grader Blade",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "34",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79e7793f2cc92ce03cc79_0_featured_image_rock_saw-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Rock Saw Series",
-          "btn": "Add to Quick Quote",
-               "categories": "Tunnelling"
+      "id": "33",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79c54b31dd40f255588c2_0_feature_transverse_drum_cutter-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Transverse Drum Cutters Series",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "35",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a7ce9b7cba72b49f1d39_0_featured_image_Crusher_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Chrusher Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "34",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79e7793f2cc92ce03cc79_0_featured_image_rock_saw-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Rock Saw Series",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "36",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8cf7a000dade2dcf45c_0_featured_image_Flail_Mower-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Flail Mower",
-          "btn": "Add to Quick Quote"
+      "id": "35",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a7ce9b7cba72b49f1d39_0_featured_image_Crusher_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Chrusher Bucket",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "37",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a722068791565c3728a9_0_featured_image_auger-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Auger Gear",
-          "btn": "Add to Quick Quote",
-               "categories": "Tunnelling"
+      "id": "36",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8cf7a000dade2dcf45c_0_featured_image_Flail_Mower-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Flail Mower",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "38",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8604f2e71cc108323ae_0_featured_image_Mulcher-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Mulcher",
-          "btn": "Add to Quick Quote"
+      "id": "37",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a722068791565c3728a9_0_featured_image_auger-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Auger Gear",
+      "btn": "Add to Quick Quote",
+      "categories": "Tunnelling"
     },
-
     {
-        "id": "39",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Pulverisers",
-          "btn": "Add to Quick Quote"
+      "id": "38",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8604f2e71cc108323ae_0_featured_image_Mulcher-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Mulcher",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "40",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Eagle 3 Rotating Scrap Shear",
-          "btn": "Add to Quick Quote"
+      "id": "39",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Pulverisers",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "41",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Eagle 2 Rotating Scrap Shear",
-          "btn": "Add to Quick Quote"
+      "id": "40",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Eagle 3 Rotating Scrap Shear",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "42",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI MultiSystem",
-          "btn": "Add to Quick Quote"
+      "id": "41",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Eagle 2 Rotating Scrap Shear",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "43",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Rail Breaker",
-          "btn": "Add to Quick Quote"
+      "id": "42",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI MultiSystem",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "44",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Combi Crusher",
-          "btn": "Add to Quick Quote"
+      "id": "43",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Rail Breaker",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "45",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "MBI Primary Crusher",
-          "btn": "Add to Quick Quote"
+      "id": "44",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Combi Crusher",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "46",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "High Performance Rock Breaker",
-          "btn": "Add to Quick Quote"
+      "id": "45",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "MBI Primary Crusher",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "47",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Cable Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "46",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "High Performance Rock Breaker",
+      "btn": "Add to Quick Quote"
     },
-
     {
-        "id": "48",
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
-        "price": "2.8 - 25T",
-        "name": "Grading Bucket",
-          "btn": "Add to Quick Quote"
+      "id": "47",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Cable Bucket",
+      "btn": "Add to Quick Quote"
+    },
+    {
+      "id": "48",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
+      "price": "2.8 - 25T",
+      "name": "Grading Bucket",
+      "btn": "Add to Quick Quote"
     }
+  ],
+  "test_card": [
+    {
+      "id": 101,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Aussie Buckets were very professional from start to finish with my recent purchase of a Ripper. Great product, price and service.",
+      "hd1": "Craig Drew"
+    },
+    {
+      "id": 102,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "I am very happy with my Log Grabber. I can pick up rocks and heavy logs. Aussie Buckets were great to deal with, very happy.",
+      "hd1": "Anthony Ciantar"
+    },
+    {
+      "id": 103,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "I made an initial inquiry to Aussie Buckets from their FB post. One of their sales team got back to me promptly. They were not pushy and quoted me on my inquiry for a bucket to suit my machine. Price was fair and i made the decision to place an order. The process was smooth and great communication along the way. I collected the bucket and was pleased with the way it turned out. Will return to Aussie buckets for any additional needs in the future and also happy to share my recommendations. Thanks to the team at Aussie Buckets. 👍🏼",
+      "hd1": "Bela Berecz"
+    },
+    {
+      "id": 104,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Excellent service experience with Aussie Buckets. When I received my bucket it was well packed and supported on the pallet, this item has definitely made my job easier. Thanks Aussie Buckets.",
+      "hd1": "Chris Scott"
+    },
+    {
+      "id": 105,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Purchased a 300 Gummy Bucket for my 1.7t. Great price and quality is A1. Perfect fit on the machine.",
+      "hd1": "Aaron Warren"
+    },
+    {
+      "id": 106,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Aussie Buckets for the win. Hydraulic grab is awesome; strong bite and great price - would fully recommend buying.",
+      "hd1": "Chris Ahearn"
+    },
+    {
+      "id": 107,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Great price, delivery was on time and my grab didn’t disappoint. Would happily recommend and wouldn’t hesitate to buy again. Great to see there’s good people in our industry from start to finish excellent experience.",
+      "hd1": "Des Bell"
+    },
+    {
+      "id": 108,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "New Stick Rake from Aussie Buckets. Can do a range of different things around home. Easy, great fit.",
+      "hd1": "David Toogood"
+    },
+    {
+      "id": 109,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "I'm extremely happy with my new Hydraulic Grab from Aussie Buckets. The price was great, the service was on point and the product is of a high quality. It has certainly saved me a lot of time and energy.",
+      "hd1": "Tom Koeller"
+    },
+    {
+      "id": 110,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "I've just bought the quick hitch and it's an absolute weapon.",
+      "hd1": "Ken M"
+    },
+    {
+      "id": 111,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Slight delays as is expected in the current climate but what was nice to see was the constant communication. Bucket arrived and very happy with the quality.",
+      "hd1": "Chris Matthews"
+    },
+    {
+      "id": 112,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Really good people to deal with built us the perfect bucket to suit our needs, great product at a very reasonable price 👌",
+      "hd1": "Paul Wild"
+    },
+    {
+      "id": 113,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "The team at Aussie Buckets went above and beyond to help me decide on buying a Hammer for my 5t excavator. From the numerous phone calls and emails to the warehouse walk through to show me what I would be purchasing. For literally under half the price of the competition for a product that does not disappoint and has a warranty that is in some cases 5x the competition! Thanks guys I will be certainly buying more products from you in the future! Regards, Concise Civil Group",
+      "hd1": "Antonie Papazoglov"
+    },
+    {
+      "id": 114,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "Easy to deal with, understood exactly the requirements for custom bucket I needed. I was actually surprised in the great communication, plus bucket was exactly what I wanted.",
+      "hd1": "Craig Robinson"
+    },
+    {
+      "id": 115,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "para": "We bought a 1200mm sieve bucket off Aussie buckets for our cat 432F backhoe. The whole team was amazing from the initial enquiries right through to delivery with excellent communication during the whole process. The buckets very solid with great workmanship we couldn't be happier with it. Will 100% buy off Aussie buckets again.",
+      "hd1": "Luke Bourke"
+    }
+  ],
+  "video_img": [
+    {
+      "id": 121,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e181a5c03d0f197d56ed_Ryan%27s%20Mulching.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "Ryans Mulching",
+      "hr": "Mechanical grab"
+    },
+    {
+      "id": 122,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e18c457ca138735864f3_Mark%20McKenna.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "Mark Mckenna",
+      "hr": "Rotary Screening Bucket"
+    },
+    {
+      "id": 123,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e19758658fcc66eb386c_SpiderWorks.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "Spider Works ",
+      "hr": "Dicket Bucket"
+    },
+    {
+      "id": 124,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1a281004c94bd2d76ca_Allan%20Walton.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "Ai's Mini Excavator & Bobcat Service",
+      "hr": "Rock Breaker"
+    },
+    {
+      "id": 125,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1b1e3070924243c11cd_M%26K%20Cresham%20Contracting.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "M&K Cresham",
+      "hr": "Mechanical grab"
+    },
+    {
+      "id": 126,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1be2976904836f4c26b_YP%20Mini%20Diggers.avif",
+      "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
+      "h2": "YP Mini Diggers",
+      "hr": "Ripper"
+    }
+  ],
+  "hover-card": [
+    {
+      "id": 151,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b45e6970d801a07e1e554f_Rock%20Bucket.png",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Excavator Buckets",
+      "cp": "Strong,Durable,Relaible",
+      "btn": "See All"
+    },
+    {
+      "id": 152,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d3af_image%2021-1.avif",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Excavator Grabs",
+      "cp": "Versatile,Efficient,Precise",
+      "btn": "See All"
+    },
+    {
+      "id": 153,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef78978e5a35252bc5f9b6_ripper_nav-Photoroom.png",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Excavator Attachment",
+      "cp": "We Have Everything You need",
+      "btn": "See All"
+    },
+    {
+      "id": 154,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef790c9e995d6ee2c1cebf_tillt_rotator_nav_02.webp",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Excavator Hitches",
+      "cp": "Boost Your Productivity",
+      "btn": "See All"
+    },
+    {
+      "id": 155,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67eb6b91a1d5739ffa1d1199_1_Daemo_smart_breaker_series_SME.png",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Excavator Breakers",
+      "cp": "Powerfull and Built Last",
+      "btn": "See All"
+    },
+    {
+      "id": 156,
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66c41153cb48e161387426d3_Multisystem.png",
+      "tittle": "FOR IT - 400T+",
+      "h4": "Performance Range",
+      "cp": "Cutting Edge Technology",
+      "btn": "See All"
+    }
+  ],
+  "Partners-Cards-1": [
+    {
+      "id": "1",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d410_PPV.avif",
+      "name": "Aidan Kuzmich",
+      "post": "Managing Director"
+    },
+    {
+      "id": "2",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d411_PPV%20(2).avif",
+      "name": "Morgan Watts",
+      "post": "Marketing Director"
+    },
+    {
+      "id": "3",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d412_PPV%20(3).avif",
+      "name": "Max Tomich",
+      "post": "Sales Director"
+    },
+    {
+      "id": "4",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e22de0ab682ea7fc638ad1_Jordan_Headshot_2025.png",
+      "name": "Jordan Kuzmich",
+      "post": "Operations Director"
+    },
+    {
+      "id": "5",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+      "name": "Nader Taleb",
+      "post": "National Sales Manager"
+    },
+    {
+      "id": "6",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b339219fdf1bd1613776_Wood_PPV.jpg",
+      "name": "Nathan Wood",
+      "post": "Business Development Manager"
+    }
+  ],
+  "partner-profile": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+      "name": "Nader Taleb",
+      "post": "National Sales Manager",
+      "number": "(+61) 426 503 432",
+      "email": "nader@aussiebuckets.com.au"
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243a3eb02a5ac0e046d72_Sam_Chiverton.png",
+      "name": "Sam Chiverton",
+      "post": "National Service Manager",
+      "number": "(+03) 9917 3678",
+      "email": "support@aussiebuckets.com.au"
+    }
+  ],
+  "partner-profile-2": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d538_KIM%20COOPER.avif",
+      "name": "Kim Elston",
+      "post": "Sales Coordinator",
+      "number": "(+61) 483 912 667",
+      "email": "kim@aussiebuckets.com.au",
+      "team": "Accounts Team",
+      "no2": "(+61) 483 912 667",
+      "em2": "accounts@aussiebuckets.com.au"
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243c9cc6632251d3d1544_Ruby_Feldwick.png",
+      "name": "Ruby Feldwick",
+      "post": "Shipping Administrator",
+      "number": "+(03) 9917 8619",
+      "email": "ruby@aussiebuckets.com.au",
+      "team": "Shipping Team",
+      "no2": "(+61) 3 9917 8619",
+      "em2": "shipping@aussiebuckets.com.au"
+    }
+  ],
+  "core-values": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55c947fab307b7ac50fde_Mission.svg",
+      "name": "Honest",
+      "para": "If things aren't perfect we want you to be the first to know, keeping you in the loop with the good times and the challenges."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cb93073da0bff76b719_Fair%20%26%20Aware.svg",
+      "name": "Fair & Aware",
+      "para": "All purchases are significant purchases no matter the price, we always want to get it right by making sure it's the perfect solution for you."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cc25d8b9ec9bf8428da_Reliable.svg",
+      "name": "Reliable",
+      "para": "We value staff training and ensure that we provide expert knowledge across our product range and beyond."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ccd753aaac18aa79dee_Quality.svg",
+      "name": "Quality",
+      "para": "Committed to providing the right solution that matches your operational requirements."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cd65d8b9ec9bf843052_Growth.svg",
+      "name": "Growth",
+      "para": "We sell hundreds of attachments every month, all with unique requirements, by listening to customer feedback and reviewing our service tickets we can rapidly improve our product quality"
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ce26da9f1615d8c958e_Solution.svg",
+      "name": "Solutions",
+      "para": "To provide the largest range of excavator attachments under one roof"
+    }
+  ],
+  "Selling-point-2": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dd_Exclusive%20Technical%20Support.svg",
+      "name": "Lifetime After-Sales Support",
+      "para2": "There’s nothing worse than being forgotten about post-purchase. Diminish any on-site stress or headaches with our lifetime technical support and guidance; so all customers can spend more time doing the things they enjoy, whilst we take care of the rest."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4de_Australia_s%20Largest%20Range.svg",
+      "name": "Largest Range in Australia",
+      "para2": "Our range includes 60+ unique attachments, in 100’s of variations, including full custom fab capabilities from design to manufacturing. Remove time-draining quote-hunting and take advantage of the best rates in the market all under the one roof."
+    }
+  ],
+  "Selling-points": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4da_No%20Unjustified%20Markups.svg",
+      "name": "No Unjustified Markups",
+      "para2": "We don't believe in charging unaffordable prices for the products you need. Reduce unnecessary overheads and maximise business profits in quality gear at a fair and honest price point. We won’t be beaten on value."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4db_100_%20Purpose-Built%20%26%20Customisable.svg",
+      "name": "100% Purpose-Built & Customisable",
+      "para2": "Impress customers with higher quality output in a fraction of the time using 100% purpose-built attachments; designed for optimal performance and efficiency."
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dc_Industry-Leading%205-Year%20Warranty.svg",
+      "name": "Industry-Leading 5-Year Warranty",
+      "para2": "Put behind you the concerns of equipment failure and stressful, costly maintenance with our comprehensive 5-year warranty coverage."
+    }
+  ],
+  "Excavator-Buckets": [
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4e0_2.%2520Buckets%2520w_%2520BG-p-1080.avif",
+      "h1": "Excavator Buckets",
+      "p": "Our range includes General Purpose, Trenching, Mud, Rock, Sieve, Tilting & Mining Buckets built to suit 1T - 400T machines.",
+      "button": "See all Buckets"
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4e1_2.%2520Grabs%2520w_%2520BG-p-1080.avif",
+      "h1": "Excavator Grabs",
+      "p": "Our Grab collection includes Mechanical Grabs, Hydraulic Grabs, Log Grabs, Grapple Saws, Stone Grabs, Multipurpose Grabs, Demolition Grabs & more, all engineered for machines from 1T to 80T.",
+      "button": "See all Grabs"
+    },
+    {
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67f601ec1750d7b39d33314e_categories_attachments_hero-2-p-1080.webp",
+      "h1": "Excavator Attachments",
+      "p": "Our extensive range consists of: Quick & Tilting Hitches, Rock Breakers, Rippers, Stick Rakes, Compaction Equipment, Drum Cutters, Rock Saws, Metal Shears, Magnets & many more.",
+      "button": "See all Attachments"
+    }
+  ],
+  "key-Stats": [
+    {
+      "id": "1",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d2c80f861b8a91a22d5_Global%20Manufactuirng%20Facilites.svg",
+      "value": 11,
+      "suffix": "+",
+      "h1": "Global Manufacturing Locations",
+      "p": "We have state of the art manufacturing facilities all over the world, including in Korea, China and Italy."
+    },
+    {
+      "id": "2",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d3c42396ae05a423c53_Attachments%20Annually.svg",
+      "value": 7450,
+      "suffix": "+",
+      "h1": "Attachments Annually",
+      "p": "Our manufacturing capabilities allow us to produce over 7,450 attachments each year.."
+    },
+    {
+      "id": "3",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d4ca20aedac9d99b8a3_Rigorous%20Inspection%20Points.svg",
+      "value": 10,
+      "suffix": "+",
+      "h1": "Rigorous Inspection Points",
+      "p": "All our products undergo a rigorous 10 point inspection to ensure there are no faults and products are made to the highest standards."
+    },
+    {
+      "id": "4",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d5f39abb5bea8b35bc0_Customer%20Satisfaction.svg",
+      "value": 97,
+      "suffix": "%",
+      "h1": "Customer Satisfaction",
+      "p": "Our customers have a 97% satisfaction rate when it comes to product quality. This is due to the high standard we hold for all our products."
+    },
+    {
+      "id": "5",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d82da5e4b687adae621_Revenue%20Spent%20on%20R%26D.svg",
+      "value": 4,
+      "suffix": "%",
+      "h1": "Of Revenue Spent On R&D",
+      "p": "We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
+    },
+    {
+      "id": "6",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d9176655b34d4bdb6ef_Steel%20Grade%20Available.svg",
+      "value": 30,
+      "suffix": "+",
+      "h1": "Steel Grades Available",
+      "p": "Our products are fully customisable with various steel grades available depending on customer preference and application. Our selection includes HARDOX (Europe), NM (China) and Bisalloy (Australia)"
+    }
+  ],
+  "Attachments": [
+    {
+      "h1": "Versatile Solutions",
+      "p": "Whether you’re managing large-scale commercial projects or handling small excavation jobs, our products are designed to meet the demands of your worksite. Our buckets are precision-engineered to handle any task from digging to grading with efficiency and ease.",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67a05b3101a2d1392a29be1b_Rock%20Sieve%20Bucket%202-min%201.avif"
+    },
+    {
+      "h1": "Boost Productivity",
+      "p": "Need to ramp up your productivity? Check out our Hydraulic Attachments, designed to deliver unmatched efficiency and power on the job site. For the toughest challenges, our Rippers and Grapples are built to provide robust performance and reliability you can count on.",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67bff3f5d487182772a67fbb_Grab%20Bucket.avif"
+    },
+    {
+      "h1": "Tailored to Your Needs",
+      "p": "Have specific requirements? We also offer custom-designed attachments tailored to seamlessly integrate with your heavy-duty machine, giving you the perfect tool for your unique project needs.",
+      "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67da3632f2925a9edff16936_Triple_Rock_Saw_Min.webp"
+    }
+  ],
+  "Ratings": [
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "Recently purchased a Aussie Buckets abad 2000 auger drive and a 300mm bit for our 1.7t put it straight to work drilling 50 holes. I must say it worked perfectly and the workmanship is 100% there. The sales team is amazing, great work guys will definitely be back for the next attachment.",
+      "name": "Brendon Farrugia",
+      "p1": "Auger Gear"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "I insisted that my preference was for a thumb. After numerous phone calls & the team drafted tech drawings & sent me the thumb only to find out that they were actually correct with the grab bucket being the correct attachment for my machine. I have had the grab bucket for quite a few months now and I must say that it is not only the best tool for me but it is built like a tank.",
+      "name": "Rory Drinkwater",
+      "p2": "Digging Bucket"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "Recently purchased a new 300mm trenching bucket and ripper from the team at Aussie buckets and am extremely happy with the build quality of both products. Both the ripper and bucket are extensively reinforced and will definitely go the distance and get the job done. I recently completed two 250 meter trenches through hill gravel and rock and the bucket didn’t brake a sweet.And their customer support and order progress reports are excellent.",
+      "name": "Nicole Brown",
+      "p2": "Mud Sieve Bucket"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "I have purchased a few buckets from Aussie Buckets and have been very happy with the quality and service. I have had a few issues with my buckets and the team at Aussie Buckets have been very helpful in resolving these issues. I would highly recommend them to anyone looking for a quality bucket.",
+      "name": "Steve Bulach",
+      "p2": "Hydraulic Grab Bucket"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "I have purchased a few buckets from Aussie Buckets and have been very happy with the quality and service. I have had a few issues with my buckets and the team at Aussie Buckets have been very helpful in resolving these issues. I would highly recommend them to anyone looking for a quality bucket.",
+      "name": "Jason Bradley",
+      "p2": "Digging Bucket & Ripper"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "Aussie Buckets have been outstanding in there service for supplying an excavator bucket to my company, the return of phone calls and being constantly being updated on progress Was unbelievable. The quality was second to none,pricing was great, they are hard to fault.I can thoroughly recommend Aussie Buckets for all your excavator buckets and attachments.",
+      "name": "Brendon Farrugia",
+      "p2": "Auger Gear"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "We got a quote from Aussie Buckets for a new sieve bucket to suit our Yanmar machine. From the first enquiry the team were very helpful and easy to deal with. The production time was made clear and we were really impressed with the emails we received keeping us updated with the progress of the build. We’d definitely use Aussie buckets again in the future.",
+      "name": "Rory Drinkwater",
+      "p2": "Digging Bucket"
+    },
+    {
+      "stars": "https://www.shutterstock.com/image-vector/five-yellow-stars-flat-design-260nw-2472444693.jpg",
+      "p": "Aussie Buckets have been outstanding in there service for supplying an excavator bucket to my company, the return of phone calls and being constantly being updated on progress Was unbelievable. The quality was second to none,pricing was great, they are hard to fault.I can thoroughly recommend Aussie Buckets for all your excavator buckets and attachments.",
+      "name": "Nicole Brown",
+      "p2": "Mud Sieve Bucket" 
 
-    ],
 
 
-
-     "test_card":[
-      {
-        "id": 101,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Aussie Buckets were very professional from start to finish with my recent purchase of a Ripper. Great product, price and service.",
-         "hd1" : "Craig Drew"
-      },
-      {
-        "id": 102,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "I am very happy with my Log Grabber. I can pick up rocks and heavy logs. Aussie Buckets were great to deal with, very happy.",
-         "hd1" : "Anthony Ciantar"
-      },
-      {
-        "id": 103,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "I made an initial inquiry to Aussie Buckets from their FB post. One of their sales team got back to me promptly. They were not pushy and quoted me on my inquiry for a bucket to suit my machine. Price was fair and i made the decision to place an order. The process was smooth and great communication along the way. I collected the bucket and was pleased with the way it turned out. Will return to Aussie buckets for any additional needs in the future and also happy to share my recommendations. Thanks to the team at Aussie Buckets. 👍🏼",
-         "hd1" : "Bela Berecz"
-      },
-      {
-        "id": 104,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Excellent service experience with Aussie Buckets. When I received my bucket it was well packed and supported on the pallet, this item has definitely made my job easier. Thanks Aussie Buckets.",
-         "hd1" : "Chris Scott"
-      },
-      {
-        "id": 105,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Purchased a 300 Gummy Bucket for my 1.7t. Great price and quality is A1. Perfect fit on the machine.",
-         "hd1" : "Aaron Warren"
-      },
-      {
-        "id": 106,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Aussie Buckets for the win. Hydraulic grab is awesome; strong bite and great price - would fully recommend buying.",
-         "hd1" : "Chris Ahearn"
-      },
-      {
-        "id": 107,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Great price, delivery was on time and my grab didn’t disappoint. Would happily recommend and wouldn’t hesitate to buy again. Great to see there’s good people in our industry from start to finish excellent experience.",
-         "hd1" : "Des Bell"
-      },
-      {
-        "id": 108,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "New Stick Rake from Aussie Buckets. Can do a range of different things around home. Easy, great fit.",
-         "hd1" : "David Toogood"
-      },
-      {
-        "id": 109,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "I'm extremely happy with my new Hydraulic Grab from Aussie Buckets. The price was great, the service was on point and the product is of a high quality. It has certainly saved me a lot of time and energy.",
-         "hd1" : "Tom Koeller"
-      },
-      {
-        "id": 110,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "I've just bought the quick hitch and it's an absolute weapon.",
-         "hd1" : "Ken M"
-      },
-      {
-        "id": 111,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Slight delays as is expected in the current climate but what was nice to see was the constant communication. Bucket arrived and very happy with the quality.",
-         "hd1" : "Chris Matthews"
-      },
-      {
-        "id": 112,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Really good people to deal with built us the perfect bucket to suit our needs, great product at a very reasonable price 👌",
-         "hd1" : "Paul Wild"
-      },
-      {
-        "id": 113,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "The team at Aussie Buckets went above and beyond to help me decide on buying a Hammer for my 5t excavator. From the numerous phone calls and emails to the warehouse walk through to show me what I would be purchasing. For literally under half the price of the competition for a product that does not disappoint and has a warranty that is in some cases 5x the competition! Thanks guys I will be certainly buying more products from you in the future! Regards, Concise Civil Group",
-         "hd1" : "Antonie Papazoglov"
-      },
-      {
-        "id": 114,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "Easy to deal with, understood exactly the requirements for custom bucket I needed. I was actually surprised in the great communication, plus bucket was exactly what I wanted.",
-         "hd1" : "Craig Robinson"
-      },
-      {
-        "id": 115,
-        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-        "para":  "We bought a 1200mm sieve bucket off Aussie buckets for our cat 432F backhoe. The whole team was amazing from the initial enquiries right through to delivery with excellent communication during the whole process. The buckets very solid with great workmanship we couldn't be happier with it. Will 100% buy off Aussie buckets again.",
-         "hd1" : "Luke Bourke"
-      }
-     ],
-"video_img": [
-  {
-    "id":121,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e181a5c03d0f197d56ed_Ryan%27s%20Mulching.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "Ryans Mulching",
-    "hr": "Mechanical grab"
-
-  },
-  {
-    "id":122,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e18c457ca138735864f3_Mark%20McKenna.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "Mark Mckenna",
-    "hr": "Rotary Screening Bucket"
-
-  },
-  {
-    "id":123,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e19758658fcc66eb386c_SpiderWorks.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "Spider Works ",
-    "hr": "Dicket Bucket"
-
-  },
-  {
-    "id":124,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1a281004c94bd2d76ca_Allan%20Walton.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "Ai's Mini Excavator & Bobcat Service",
-    "hr": "Rock Breaker"
-
-  },
-  {
-    "id":125,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1b1e3070924243c11cd_M%26K%20Cresham%20Contracting.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "M&K Cresham",
-    "hr": "Mechanical grab"
-
-  },
-  {
-    "id":126,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/66c6e1be2976904836f4c26b_YP%20Mini%20Diggers.avif",
-    "star": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4ba_Stars.svg",
-    "h2": "YP Mini Diggers",
-    "hr": "Ripper"
-
-  }
-],
-"hover-card": [
-  {
-    "id": 151,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b45e6970d801a07e1e554f_Rock%20Bucket.png",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Excavator Buckets",
-    "cp": "Strong,Durable,Relaible",
-    "btn": "See All"
-  },
-  {
-    "id": 152,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d3af_image%2021-1.avif",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Excavator Grabs",
-    "cp": "Versatile,Efficient,Precise",
-    "btn": "See All"
-  },
-  {
-    "id": 153,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef78978e5a35252bc5f9b6_ripper_nav-Photoroom.png",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Excavator Attachment",
-    "cp": "We Have Everything You need",
-    "btn": "See All"
-  },
-  {
-    "id": 154,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67ef790c9e995d6ee2c1cebf_tillt_rotator_nav_02.webp",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Excavator Hitches",
-    "cp": "Boost Your Productivity",
-    "btn": "See All"
-  },
-  {
-    "id": 155,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67eb6b91a1d5739ffa1d1199_1_Daemo_smart_breaker_series_SME.png",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Excavator Breakers",
-    "cp": "Powerfull and Built Last",
-    "btn": "See All"
-  },
-  {
-    "id": 156,
-    "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66c41153cb48e161387426d3_Multisystem.png",
-    "tittle": "FOR IT - 400T+",
-    "h4": "Performance Range",
-    "cp": "Cutting Edge Technology",
-    "btn": "See All"
-  }
-],
-
-"Partners-Cards-1": [
-        {
-            "id":"1",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d410_PPV.avif",
-            "name":"Aidan Kuzmich",
-            "post":"Managing Director"
-        },
-
-        {
-            "id":"2",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d411_PPV%20(2).avif",
-            "name":"Morgan Watts",
-            "post":"Marketing Director"
-        },
-
-        {
-            "id":"3",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d412_PPV%20(3).avif",
-            "name":"Max Tomich",
-            "post":"Sales Director"
-        },
-
-        {
-            "id":"4",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e22de0ab682ea7fc638ad1_Jordan_Headshot_2025.png",
-            "name":"Jordan Kuzmich",
-            "post":"Operations Director"
-        },
-
-        {
-            "id":"5",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
-            "name":"Nader Taleb",
-            "post":"National Sales Manager"
-        },
-
-        {
-            "id":"6",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b339219fdf1bd1613776_Wood_PPV.jpg",
-            "name":"Nathan Wood",
-            "post":"Business Development Manager"
-        }
-      ],
-
-    "partner-profile": [
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
-            "name": "Nader Taleb",
-            "post": "National Sales Manager",
-             "number": "(+61) 426 503 432",
-             "email": "nader@aussiebuckets.com.au"
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243a3eb02a5ac0e046d72_Sam_Chiverton.png",
-            "name" : "Sam Chiverton",
-            "post": "National Service Manager",
-             "number": "(+03) 9917 3678",
-             "email": "support@aussiebuckets.com.au"
-        }
-    ],
-    "partner-profile-2": [
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d538_KIM%20COOPER.avif",
-            "name": "Kim Elston",
-            "post": "Sales Coordinator",
-            "number": "(+61) 483 912 667",
-            "email" : "kim@aussiebuckets.com.au",
-            "team": "Accounts Team",
-            "no2": "(+61) 483 912 667",
-            "em2": "accounts@aussiebuckets.com.au"
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243c9cc6632251d3d1544_Ruby_Feldwick.png",
-            "name": "Ruby Feldwick",
-            "post": "Shipping Administrator",
-            "number": "+(03) 9917 8619",
-            "email" : "ruby@aussiebuckets.com.au",
-            "team": "Shipping Team",
-            "no2": "(+61) 3 9917 8619",
-            "em2": "shipping@aussiebuckets.com.au"
-        }
-    ],
-
-    "core-values" : [
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55c947fab307b7ac50fde_Mission.svg",
-            "name": "Honest",
-            "para": "If things aren't perfect we want you to be the first to know, keeping you in the loop with the good times and the challenges."
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cb93073da0bff76b719_Fair%20%26%20Aware.svg",
-            "name": "Fair & Aware",
-            "para": "All purchases are significant purchases no matter the price, we always want to get it right by making sure it's the perfect solution for you."
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cc25d8b9ec9bf8428da_Reliable.svg",
-            "name": "Reliable",
-            "para": "We value staff training and ensure that we provide expert knowledge across our product range and beyond."
-        },
-        
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ccd753aaac18aa79dee_Quality.svg",
-            "name": "Quality",
-            "para": "Committed to providing the right solution that matches your operational requirements."
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cd65d8b9ec9bf843052_Growth.svg",
-            "name": "Growth",
-            "para": "We sell hundreds of attachments every month, all with unique requirements, by listening to customer feedback and reviewing our service tickets we can rapidly improve our product quality"
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ce26da9f1615d8c958e_Solution.svg",
-            "name": "Solutions",
-            "para": "To provide the largest range of excavator attachments under one roof"
-        }
-
-    ],
-
-    "Selling-point-2": [
-        {   
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dd_Exclusive%20Technical%20Support.svg",
-            "name": "Lifetime After-Sales Support",
-            "para2": "There’s nothing worse than being forgotten about post-purchase. Diminish any on-site stress or headaches with our lifetime technical support and guidance; so all customers can spend more time doing the things they enjoy, whilst we take care of the rest."
-        },
-
-        {   
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4de_Australia_s%20Largest%20Range.svg",
-            "name": "Largest Range in Australia",
-            "para2": "Our range includes 60+ unique attachments, in 100’s of variations, including full custom fab capabilities from design to manufacturing. Remove time-draining quote-hunting and take advantage of the best rates in the market all under the one roof."
-        }
-    ],
-
-    "Selling-points": [
-        {   
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4da_No%20Unjustified%20Markups.svg",
-            "name": "No Unjustified Markups",
-            "para2": "We don't believe in charging unaffordable prices for the products you need. Reduce unnecessary overheads and maximise business profits in quality gear at a fair and honest price point. We won’t be beaten on value."
-        },
-
-        {   
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4db_100_%20Purpose-Built%20%26%20Customisable.svg",
-            "name": "100% Purpose-Built & Customisable",
-            "para2": "Impress customers with higher quality output in a fraction of the time using 100% purpose-built attachments; designed for optimal performance and efficiency."
-        },
-
-        {   
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dc_Industry-Leading%205-Year%20Warranty.svg",
-            "name": "Industry-Leading 5-Year Warranty",
-            "para2": "Put behind you the concerns of equipment failure and stressful, costly maintenance with our comprehensive 5-year warranty coverage."
-        }     
-    ],
-    "Excavator-Buckets": [
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4e0_2.%2520Buckets%2520w_%2520BG-p-1080.avif",
-            "h1":"Excavator Buckets",
-            "p": "Our range includes General Purpose, Trenching, Mud, Rock, Sieve, Tilting & Mining Buckets built to suit 1T - 400T machines.",
-            "button":"See all Buckets"
-        
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4e1_2.%2520Grabs%2520w_%2520BG-p-1080.avif",
-            "h1":"Excavator Grabs",
-            "p": "Our Grab collection includes Mechanical Grabs, Hydraulic Grabs, Log Grabs, Grapple Saws, Stone Grabs, Multipurpose Grabs, Demolition Grabs & more, all engineered for machines from 1T to 80T.",
-            "button":"See all Grabs"
-          
-        },
-
-        {
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67f601ec1750d7b39d33314e_categories_attachments_hero-2-p-1080.webp",
-            "h1": "Excavator Attachments",
-            "p": "Our extensive range consists of: Quick & Tilting Hitches, Rock Breakers, Rippers, Stick Rakes, Compaction Equipment, Drum Cutters, Rock Saws, Metal Shears, Magnets & many more.",
-            "button":"See all Attachments"
-            
-        }
-    ],
-
-    "key-Stats":[
-        {
-            "id":"1",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d2c80f861b8a91a22d5_Global%20Manufactuirng%20Facilites.svg",
-            "value":11,
-            "suffix":"+",
-            "h1": "Global Manufacturing Locations",
-            "p":"We have state of the art manufacturing facilities all over the world, including in Korea, China and Italy."
-
-        },
-
-        {
-            "id":"2",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d3c42396ae05a423c53_Attachments%20Annually.svg",
-            "value": 7450 ,
-            "suffix":"+",
-            "h1": "Attachments Annually",
-            "p":"Our manufacturing capabilities allow us to produce over 7,450 attachments each year.."
-
-        },
-
-        {
-            "id":"3",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d4ca20aedac9d99b8a3_Rigorous%20Inspection%20Points.svg",
-            "value":10,
-            "suffix":"+",
-            "h1": "Rigorous Inspection Points",
-            "p":"All our products undergo a rigorous 10 point inspection to ensure there are no faults and products are made to the highest standards."
-
-        },
-
-        {
-            "id":"4",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d5f39abb5bea8b35bc0_Customer%20Satisfaction.svg",
-            "value":97,
-            "suffix":"%",
-            "h1": "Customer Satisfaction",
-            "p":"Our customers have a 97% satisfaction rate when it comes to product quality. This is due to the high standard we hold for all our products."
-
-        },
-
-        {
-            "id":"5",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d82da5e4b687adae621_Revenue%20Spent%20on%20R%26D.svg",
-            "value":4,
-            "suffix":"%",
-            "h1": "Of Revenue Spent On R&D",
-            "p": "We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
-            
-
-        },
-
-        {
-            "id":"6",
-            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d9176655b34d4bdb6ef_Steel%20Grade%20Available.svg",
-            "value":30,
-            "suffix":"+",
-            "h1": "Steel Grades Available",
-            "p":"Our products are fully customisable with various steel grades available depending on customer preference and application. Our selection includes HARDOX (Europe), NM (China) and Bisalloy (Australia)"
-
-        }
-    ],
-    "Attachments":[
-        {
-            "h1": "Versatile Solutions",
-            "p":"Whether you’re managing large-scale commercial projects or handling small excavation jobs, our products are designed to meet the demands of your worksite. Our buckets are precision-engineered to handle any task from digging to grading with efficiency and ease.",
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67a05b3101a2d1392a29be1b_Rock%20Sieve%20Bucket%202-min%201.avif"
-        },
-
-        {
-            "h1": "Boost Productivity",
-            "p":"Need to ramp up your productivity? Check out our Hydraulic Attachments, designed to deliver unmatched efficiency and power on the job site. For the toughest challenges, our Rippers and Grapples are built to provide robust performance and reliability you can count on.",
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67bff3f5d487182772a67fbb_Grab%20Bucket.avif"
-        },
-
-        {
-            "h1": "Tailored to Your Needs",
-            "p":"Have specific requirements? We also offer custom-designed attachments tailored to seamlessly integrate with your heavy-duty machine, giving you the perfect tool for your unique project needs.",
-            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67da3632f2925a9edff16936_Triple_Rock_Saw_Min.webp"
-        }
-    ]
-
-  }
+    }
+  
+  ]
+}

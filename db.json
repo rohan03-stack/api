@@ -16,7 +16,8 @@
       "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7bb532cbaeb164fa045f9_0_featured_image_Hydraulic_Grab-p-500.webp",
       "price": "2.8 - 25T",
       "name": "Hydraulic Grab",
-      "btn": "Add to Quick Quote"
+      "btn": "Add to Quick Quote",
+       "categories": "Bucket"
     },
     {
       "id": "3",
@@ -809,5 +810,6 @@
 
     }
   
+
   ]
 }

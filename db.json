@@ -10,7 +10,8 @@
       "name": "Tilt Rotator",
       "btn": "Add to Quick Quote",
       "categories": "Tunnelling",
-      "cardId": "lsjsjs"
+      "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+      "rates": "(4.7 stars)"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Grab",
       "btn": "Add to Quick Quote",
-       "categories": "Bucket"
+       "categories": "Bucket",
+       "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "3",
@@ -26,7 +28,9 @@
       "price": "2.8 - 25T",
       "name": "Digging Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Trenching"
+      "categories": "Trenching",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+       "rates": "(4.7 stars)"
     },
     {
       "id": "4",
@@ -34,7 +38,8 @@
       "price": "2.8 - 25T",
       "name": "Rock Breaker",
       "btn": "Add to Quick Quote",
-      "categories": "Tunnelling"
+      "categories": "Tunnelling",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
       
     },
     {
@@ -43,7 +48,8 @@
       "price": "2.8 - 25T",
       "name": "Mud Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Bucket"
+      "categories": "Bucket",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "6",
@@ -51,7 +57,9 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Tilting Hitch",
       "btn": "Add to Quick Quote",
-      "categories": "Quarries & Mines"
+      "categories": "Quarries & Mines",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "7",
@@ -59,7 +67,8 @@
       "price": "2.8 - 25T",
       "name": "Heavy duty 4 in 1 Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Quarries & Mines"
+      "categories": "Quarries & Mines",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "8",
@@ -67,7 +76,9 @@
       "price": "2.8 - 25T",
       "name": "Ripper",
       "btn": "Add to Quick Quote",
-      "categories": "Trenching"
+      "categories": "Trenching",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "9",
@@ -75,7 +86,8 @@
       "price": "2.8 - 25T",
       "name": "Tilting Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Quarries & Mines"
+      "categories": "Quarries & Mines",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "10",
@@ -83,7 +95,8 @@
       "price": "2.8 - 25T",
       "name": "Mechanical Grab",
       "btn": "Add to Quick Quote",
-      "categories": "Utilities"
+      "categories": "Utilities",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "11",
@@ -91,7 +104,9 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Grab Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Trenching"
+      "categories": "Trenching",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "12",
@@ -99,7 +114,8 @@
       "price": "2.8 - 25T",
       "name": "Rock Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Utilities"
+      "categories": "Utilities",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "13",
@@ -107,7 +123,8 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Thumbs",
       "btn": "Add to Quick Quote",
-      "categories": "Utilities"
+      "categories": "Utilities",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "14",
@@ -115,7 +132,9 @@
       "price": "2.8 - 25T",
       "name": "Quarry Bucket",
       "btn": "Add to Quick Quote",
-       "categories": "Utilities"
+       "categories": "Utilities",
+        "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "15",
@@ -123,7 +142,8 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Quick Hitch",
       "btn": "Add to Quick Quote",
-       "categories": "Landscaping"
+       "categories": "Landscaping",
+       "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "16",
@@ -131,7 +151,9 @@
       "price": "2.8 - 25T",
       "name": "Heavy Duty Stick Rake",
       "btn": "Add to Quick Quote",
-       "categories": "Landscaping"
+       "categories": "Landscaping",
+        "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "17",
@@ -139,7 +161,8 @@
       "price": "2.8 - 25T",
       "name": "Mud Sieve Bucket",
       "btn": "Add to Quick Quote",
-       "categories": "Landscaping"
+       "categories": "Landscaping",
+       "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "18",
@@ -147,7 +170,9 @@
       "price": "2.8 - 25T",
       "name": "Rock Sieve Bucket",
       "btn": "Add to Quick Quote",
-         "categories": "Landscaping"
+         "categories": "Landscaping",
+          "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+            "rates": "(4.7 stars)"
     },
     {
       "id": "19",
@@ -155,7 +180,8 @@
       "price": "2.8 - 25T",
       "name": "V Bucket",
       "btn": "Add to Quick Quote",
-         "categories": "Construction & Building"
+         "categories": "Construction & Building",
+         "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "20",
@@ -163,7 +189,9 @@
       "price": "2.8 - 25T",
       "name": "Compaction Wheel",
       "btn": "Add to Quick Quote",
-      "categories": "Trenching"
+      "categories": "Trenching",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "21",
@@ -171,7 +199,8 @@
       "price": "2.8 - 25T",
       "name": "Vibrating Compaction Plate",
       "btn": "Add to Quick Quote",
-         "categories": "Construction & Building"
+         "categories": "Construction & Building",
+         "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "22",
@@ -179,7 +208,8 @@
       "price": "2.8 - 25T",
       "name": "Excavator Pallet Forks",
       "btn": "Add to Quick Quote",
-         "categories": "Construction & Building"
+         "categories": "Construction & Building",
+         "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "23",
@@ -187,7 +217,9 @@
       "price": "2.8 - 25T",
       "name": "Rotary Screening Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Bucket"
+      "categories": "Bucket",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "24",
@@ -195,7 +227,8 @@
       "price": "2.8 - 25T",
       "name": "Vibrating Ripper",
       "btn": "Add to Quick Quote",
-      "categories": "Tunnelling"
+      "categories": "Tunnelling",
+      "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "25",
@@ -203,7 +236,9 @@
       "price": "2.8 - 25T",
       "name": "Vibrating Pile Driver",
       "btn": "Add to Quick Quote",
-       "categories": "Construction & Building"
+       "categories": "Construction & Building",
+        "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "26",
@@ -211,7 +246,8 @@
       "price": "2.8 - 25T",
       "name": "Hydraulic Tree Share",
       "btn": "Add to Quick Quote",
-       "categories": "Demolition"
+       "categories": "Demolition",
+       "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "27",
@@ -219,7 +255,9 @@
       "price": "2.8 - 25T",
       "name": "Rotating Multipurpose Grab",
       "btn": "Add to Quick Quote",
-      "categories": "Bucket"
+      "categories": "Bucket",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
     },
     {
       "id": "28",
@@ -227,7 +265,8 @@
       "price": "2.8 - 25T",
       "name": "Sorting Grab Series",
       "btn": "Add to Quick Quote",
-       "categories": "Demolition"
+       "categories": "Demolition",
+       "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "29",
@@ -235,7 +274,9 @@
       "price": "2.8 - 25T",
       "name": "Clamshell Bucket Series",
       "btn": "Add to Quick Quote",
-       "categories": "Demolition"
+       "categories": "Demolition",
+        "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "30",
@@ -243,7 +284,9 @@
       "price": "2.8 - 25T",
       "name": "Sweeper Broom",
       "btn": "Add to Quick Quote",
-        "categories": "Demolition"
+        "categories": "Demolition",
+         "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+           "rates": "(4.7 stars)"
     },
     {
       "id": "31",
@@ -251,7 +294,8 @@
       "price": "2.8 - 25T",
       "name": "Rotating Fixed Log Grapple",
       "btn": "Add to Quick Quote",
-        "categories": "Agriculture & Forestry"
+        "categories": "Agriculture & Forestry",
+        "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "32",
@@ -259,7 +303,8 @@
       "price": "2.8 - 25T",
       "name": "Grader Blade",
       "btn": "Add to Quick Quote",
-        "categories": "Agriculture & Forestry"
+        "categories": "Agriculture & Forestry",
+        "star-point": "https://static.thenounproject.com/png/1149723-200.png"
     },
     {
       "id": "33",
@@ -267,7 +312,9 @@
       "price": "2.8 - 25T",
       "name": "Transverse Drum Cutters Series",
       "btn": "Add to Quick Quote",
-      "categories": "Tunnelling"
+      "categories": "Tunnelling",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+         "rates": "(4.7 stars)"
       
     },
     {
@@ -276,7 +323,9 @@
       "price": "2.8 - 25T",
       "name": "Rock Saw Series",
       "btn": "Add to Quick Quote",
-      "categories": "Tunnelling"
+      "categories": "Tunnelling",
+          "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+            "rates": "(3.6 stars)"
       
     },
     {
@@ -285,7 +334,10 @@
       "price": "2.8 - 25T",
       "name": "Chrusher Bucket",
       "btn": "Add to Quick Quote",
-        "categories": "Agriculture & Forestry"
+        "categories": "Agriculture & Forestry",
+            "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+             "rates": "(3.6 stars)"
+
     },
     {
       "id": "36",
@@ -293,7 +345,9 @@
       "price": "2.8 - 25T",
       "name": "Flail Mower",
       "btn": "Add to Quick Quote",
-        "categories": "Agriculture & Forestry"
+        "categories": "Agriculture & Forestry",
+         "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "37",
@@ -301,7 +355,9 @@
       "price": "2.8 - 25T",
       "name": "Auger Gear",
       "btn": "Add to Quick Quote",
-        "categories": "Recycling"
+        "categories": "Recycling",
+            "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+             "rates": "(3.6 stars)"
     },
     {
       "id": "38",
@@ -309,7 +365,9 @@
       "price": "2.8 - 25T",
       "name": "Mulcher",
       "btn": "Add to Quick Quote",
-        "categories": "Recycling"
+        "categories": "Recycling",
+         "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png",
+          "rates": "(4.7 stars)"
     },
     {
       "id": "39",
@@ -317,15 +375,20 @@
       "price": "2.8 - 25T",
       "name": "MBI Pulverisers",
       "btn": "Add to Quick Quote",
-        "categories": "Recycling"
+        "categories": "Recycling",
+            "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+             "rates": "(3.6 stars)"
     },
+    
     {
       "id": "40",
       "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
       "price": "2.8 - 25T",
       "name": "MBI Eagle 3 Rotating Scrap Shear",
       "btn": "Add to Quick Quote",
-       "categories": "Recycling"
+       "categories": "Recycling",
+           "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+            "rates": "(3.6 stars)"
     },
     {
       "id": "41",
@@ -333,7 +396,8 @@
       "price": "2.8 - 25T",
       "name": "MBI Eagle 2 Rotating Scrap Shear",
       "btn": "Add to Quick Quote",
-       "categories": "Bulk Material Handling"
+       "categories": "Bulk Material Handling",
+        "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png"
     },
     {
       "id": "42",
@@ -341,7 +405,9 @@
       "price": "2.8 - 25T",
       "name": "MBI MultiSystem",
       "btn": "Add to Quick Quote",
-       "categories": "Bulk Material Handling"
+       "categories": "Bulk Material Handling",
+           "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+            "rates": "(3.6 stars)"
     },
     {
       "id": "43",
@@ -349,7 +415,9 @@
       "price": "2.8 - 25T",
       "name": "MBI Rail Breaker",
       "btn": "Add to Quick Quote",
-       "categories": "Bulk Material Handling"
+       "categories": "Bulk Material Handling",
+           "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+            "rates": "(3.6 stars)"
     },
     {
       "id": "44",
@@ -357,7 +425,8 @@
       "price": "2.8 - 25T",
       "name": "MBI Combi Crusher",
       "btn": "Add to Quick Quote",
-      "categories": "Bulk Material Handling"
+      "categories": "Bulk Material Handling",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png"
     },
     {
       "id": "45",
@@ -365,7 +434,9 @@
       "price": "2.8 - 25T",
       "name": "MBI Primary Crusher",
       "btn": "Add to Quick Quote",
-      "categories": "Roadworks"
+      "categories": "Roadworks",
+          "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+           "rates": "(3.6 stars)"
     },
     {
       "id": "46",
@@ -373,7 +444,9 @@
       "price": "2.8 - 25T",
       "name": "High Performance Rock Breaker",
       "btn": "Add to Quick Quote",
-      "categories": "Roadworks"
+      "categories": "Roadworks",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png"
+       
     },
     {
       "id": "47",
@@ -381,7 +454,9 @@
       "price": "2.8 - 25T",
       "name": "Cable Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Roadworks"
+      "categories": "Roadworks",
+      "star-point": "https://spng.pngfind.com/pngs/s/363-3637013_star-rating-coloring-page-4-and-half-stars.png",
+       "rates": "(3.6 stars)"
     },
     {
       "id": "48",
@@ -389,7 +464,8 @@
       "price": "2.8 - 25T",
       "name": "Grading Bucket",
       "btn": "Add to Quick Quote",
-      "categories": "Roadworks"
+      "categories": "Roadworks",
+       "star-point": "https://cdn0.iconfinder.com/data/icons/star-ratings/100/four_half-512.png"
     }
   ],
   "test_card": [

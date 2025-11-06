@@ -1063,5 +1063,25 @@
     }
   
 
+  ],
+  "hyper":[
+    {
+      "id":"501",
+      "fd-name":"Foie Gras with Figs",
+      "char":"Foie Gras aux Figues",
+      "disc":"Foie Gras aux Figues"
+    },
+      {
+      "id":"501",
+      "fd-name":"Foie Gras with Figs",
+      "char":"Foie Gras aux Figues",
+      "disc":"Foie Gras aux Figues"
+    },
+      {
+      "id":"501",
+      "fd-name":"Foie Gras with Figs",
+      "char":"Foie Gras aux Figues",
+      "disc":"Foie Gras aux Figues"
+    }
   ]
 }

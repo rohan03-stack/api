@@ -1067,21 +1067,24 @@
   "hyper":[
     {
       "id":"501",
+     "img": "https://xn--hrsw-83d0a0ffu.xn--hngapp-3nf2be9ivbz917d.swapneweu.com/276d4fd464f1055f67347c242e894afb.jpg",
       "fd-name":"Foie Gras with Figs",
       "char":"Foie Gras aux Figues",
       "disc":"Foie Gras aux Figues"
     },
       {
-      "id":"501",
-      "fd-name":"Foie Gras with Figs",
-      "char":"Foie Gras aux Figues",
-      "disc":"Foie Gras aux Figues"
+      "id":"502",
+       "img":"https://xn--hrsw-83d0a0ffu.xn--hngapp-3nf2be9ivbz917d.swapneweu.com/3b8b7c9ef016572fbf606f43ecfa38da.jpg",
+      "fd-name":"Beef Wellington",
+      "char":"Bœuf Wellington",
+      "disc":"Beef tenderloin in puff pastry with mushroom duxelles"
     },
       {
-      "id":"501",
-      "fd-name":"Foie Gras with Figs",
-      "char":"Foie Gras aux Figues",
-      "disc":"Foie Gras aux Figues"
+      "id":"503",
+      "img":"https://xn--hrsw-83d0a0ffu.xn--hngapp-3nf2be9ivbz917d.swapneweu.com/430721b992ca3afffcef2548538b04b9.jpg",
+      "fd-name":"Crème Brûlée",
+      "char":"Crème Brûlée",
+      "disc":"Vanilla custard with caramelized sugar crust"
     }
   ]
 }
